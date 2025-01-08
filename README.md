@@ -1,7 +1,8 @@
-# Archie - Hugo theme
-Archie is a minimal and clean theme for hugo with a markdown-ish UI.
+# Archiemedes
 
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
+Archiemedes is a minimal and clean theme for [Hugo](https://gohugo.io/) with a markdown-ish UI.
+
+Forked from the [Archie](https://github.com/athul/archie) theme.
 
 ## Demo
 
@@ -25,9 +26,9 @@ In your Hugo website directory, create a new folder named theme and clone the re
 ```bash
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/athul/archie.git
+$ git clone https://github.com/ejyager00/archiemedes.git
 ```
-Edit the `config.toml` file with `theme="archie"`
+Edit the `config.toml` file with `theme="archiemedes"`
 For more information read the official [setup guide](https://gohugo.io/installation/) of Hugo.
 
 If you encounter any issues with Google Analytics, update Hugo to v0.125.0 or
